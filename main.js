@@ -8,7 +8,7 @@ createApp({
                 { link: 'https://github.com/fabianofm', label: "GitHub"},
                 { link: 'https://pt.stackoverflow.com/users/37335/fabiano-monteiro', label: "Stack Overflow"}
             ],
-        email: "fabianophp@hotmail.com"
+        email: "fabiano@eueletronico.com.br"
      }
   }
 }).mount('#app')
